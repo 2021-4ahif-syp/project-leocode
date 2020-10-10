@@ -1,0 +1,78 @@
+= Projektauftrag LeoCode
+// Metadata
+:team: Besic Benjamin, Ignjatovic David, Raid Yimne, Spasenovic Bozidar
+:team-leiter: Ignjatovic David
+:date: 10.10.2020
+:revision:  1.0
+// Settings
+:source-highlighter: coderay
+:icons: font
+:sectnums:    // Nummerierung der Überschriften / section numbering
+// Refs:
+// :imagesdir: images
+// :sourcedir-code: src/main/java/at/htl/jdbcprimer
+// :sourcedir-test: src/test/java/at/htl/jdbcprimer
+:toc:
+
+Version: {revision}
+
+++++
+<link rel="stylesheet"  href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+++++
+
+== Projektbezeichnung
+*LeoCode*
+
+== Projektauftraggeber
+Prof. Mag. Dr. Stütz
+
+== Projekthintergrund
+
+Viele Schüler haben nicht genug praktische Übung im Unterricht und kennen sich meisten nicht bei den Übungen aus.
+Noch dazu haben die ersten Klassen öfters Probleme mit den IDE's. Meistens haben sie keinen Zugriff oder irgendwas hat nicht funktioniert.
+
+== Projektergebnis
+
+Das Ergebnis ist eine Webapp, wo die Schüler Coding-Übungen absolvieren können.
+
+== Projektziel
+
+Das Ziel ist es den Schülern die Möglichkeit zu geben Programmieren zu üben und somit die Probleme mit dem IDE's zu vermeiden.
+
+== Projektbeschreibung
+
+CAUTION: Noch nicht fertig!
+
+
+== Meilensteine
+
+CAUTION: Noch nicht fertig!
+
+
+== Freigaben
+
+== Projektstart
+
+05.10.2020
+
+== Projektende
+
+nicht festgelegt
+
+== Projektressourcen
+
+=== IDE
+* InetlliJ
+
+CAUTION: Noch nicht fertig!
+
+== Projektrisiken
+
+* Zeitmangel
+
+== Projektorganisation
+* Projektmanager: {team-leiter}
+* Projektstellvertreter: {team}
+
+
+== Abschluss des Projektauftrags
