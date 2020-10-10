@@ -38,12 +38,12 @@ Das Ergebnis ist eine Webapp, wo die Schüler C# Coding-Übungen mit dazugehöri
 
 == Projektziel
 
-Das Ziel ist es den Schülern die Möglichkeit zu geben Programmieren mit der Sprache C# zu üben und dadurch besser im Unterricht mitzukommen.
+Das Ziel ist es den Schülern die Möglichkeit zu geben, Programmieren in der Sprache C# zu üben und dadurch besser im Unterricht mitzukommen.
 
 == Projektbeschreibung
-Das Projekt ist eine Webanwendung wo der Schüler die Möglichkeit hat verschiedene Übungen für C# durchzuführen.
+Das Projekt ist eine Webanwendung, wo der Schüler die Möglichkeit hat verschiedene Übungen für C# durchzuführen.
 Der Schüler loggt sich mit seinen Schuldaten ein und kann direkt loslegen. +
-Nachdem der Schüler seine Lösung ausprogrammiert hat wird sie kompiliert und durch Tests wird geprüft, ob die Lösung
+Nachdem der Schüler seine Lösung ausprogrammiert hat, wird der Quellcode kompiliert und durch Tests geprüft, ob die Lösung
 korrekt ist oder nicht.
 
 CAUTION: Noch nicht fertig!
