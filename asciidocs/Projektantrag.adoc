@@ -21,29 +21,32 @@ Version: {revision}
 ++++
 
 == Projektbezeichnung
-*LeoCode*
+*LeoCode C#*
 
 == Projektauftraggeber
 Prof. Mag. Dr. Stütz
 
 == Projekthintergrund
-
-Viele Schüler haben nicht genug praktische Übung im Unterricht und kennen sich meisten nicht bei den Übungen aus.
-Noch dazu haben die ersten Klassen öfters Probleme mit den IDE's. Meistens haben sie keinen Zugriff oder irgendwas hat nicht funktioniert.
+In der HTL Leonding wird besonders beim Informatikzweig (zum Teil auch in den anderen Zweigen) auf praktische Programmierübungen
+Wert gelegt. +
+Viele Schüler haben aber durch den Lehrplan nicht genug praktische Übung im Unterricht und kennen sich meisten nicht bei den Hausübungen aus. +
+Noch dazu haben die ersten Klassen öfters Probleme mit den IDE's. Meistens haben sie keinen Zugriff oder irgendetwas hat nicht funktioniert.
 
 == Projektergebnis
 
-Das Ergebnis ist eine Webapp, wo die Schüler Coding-Übungen absolvieren können.
+Das Ergebnis ist eine Webapp, wo die Schüler C# Coding-Übungen mit dazugehöriger Überprüfung absolvieren können.
 
 == Projektziel
 
-Das Ziel ist es den Schülern die Möglichkeit zu geben Programmieren zu üben und somit die Probleme mit dem IDE's zu vermeiden.
+Das Ziel ist es den Schülern die Möglichkeit zu geben Programmieren mit der Sprache C# zu üben und dadurch besser im Unterricht mitzukommen.
 
 == Projektbeschreibung
+Das Projekt ist eine Webanwendung wo der Schüler die Möglichkeit hat verschiedene Übungen für C# durchzuführen.
+Der Schüler loggt sich mit seinen Schuldaten ein und kann direkt loslegen. +
+Nachdem der Schüler seine Lösung ausprogrammiert hat wird sie kompiliert und durch Tests wird geprüft, ob die Lösung
+korrekt ist oder nicht.
 
 CAUTION: Noch nicht fertig!
-
-
 == Meilensteine
 
 CAUTION: Noch nicht fertig!
@@ -60,9 +63,18 @@ CAUTION: Noch nicht fertig!
 nicht festgelegt
 
 == Projektressourcen
+=== IDEA
+* IntelliJ
 
-=== IDE
-* InetlliJ
+=== Programmieren
+* Quarkus
+* nodeJS
+* angular
+
+=== Webapp
+* Webserver
+* Datenbank
+
 
 CAUTION: Noch nicht fertig!
 
