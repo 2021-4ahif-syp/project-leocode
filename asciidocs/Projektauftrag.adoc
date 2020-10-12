@@ -1,4 +1,4 @@
-= Projektauftrag LeoCode
+    = Projektauftrag LeoCode
 // Metadata
 :team: Besic Benjamin, Ignjatovic David, Raid Yimne, Spasenovic Bozidar
 :team-leiter: Ignjatovic David
